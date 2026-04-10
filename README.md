@@ -48,9 +48,7 @@ Users can filter the data interactively using three dropdowns — **City**, **Fu
 
 ## 🌐 Live Demo
 
-> _Add your Vercel URL here after deployment_
->
-> **https://your-project-name.vercel.app**
+> **[https://your-project-name.vercel.app](https://fuel-price-dashboard-xi.vercel.app/)**
 
 ---
 
