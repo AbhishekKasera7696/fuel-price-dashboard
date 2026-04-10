@@ -1,6 +1,6 @@
 import type { DataItem } from "../types";
 
-// Full month names as they appear in the CSV after parsing (e.g. "June")
+// Full month names as they appear in the CSV after parsing
 const MONTHS = [
   "January",
   "February",
