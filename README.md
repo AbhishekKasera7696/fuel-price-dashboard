@@ -153,13 +153,13 @@ cd fuel-price-dashboard/rsp-dashboard
 ### 2. Install dependencies
 
 ```bash
-npm install
+yarn add
 ```
 
 ### 3. Start the dev server
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser.
@@ -167,7 +167,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 ### 4. Build for production
 
 ```bash
-npm run build
+yarn build
 ```
 
 Output goes into the `dist/` folder, ready to deploy.
