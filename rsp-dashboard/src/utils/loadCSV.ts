@@ -6,7 +6,7 @@ const PRICE_COL =
 
 export const loadCSV = (): Promise<DataItem[]> => {
   return new Promise((resolve, reject) => {
-    Papa.parse("/src/data/rsp.csv", {
+    Papa.parse("/rsp.csv", {
       download: true,
       header: true,
       skipEmptyLines: true,
